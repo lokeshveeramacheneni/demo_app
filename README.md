@@ -1,5 +1,8 @@
 # README
 
+
+This example is reimplementation of code presented in Ruby on Rails 3 Tutorial by Michael Hartl.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
